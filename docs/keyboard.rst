@@ -1,7 +1,7 @@
 .. default-role:: code
 
 ==========================
-Keyboard Control Functions dddfdfddd
+Keyboard Control Functions xxx
 ==========================
 
 The typewrite() Function
